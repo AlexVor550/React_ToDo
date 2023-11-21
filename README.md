@@ -10,12 +10,16 @@
 # Примеры использования проекта, включая скриншоты или кодовые фрагменты, если это применимо.
   Создание todo:
   <img width="896" alt="2023-11-21 14_35_22-Vite + React и еще 16 страниц — Личный_ Microsoft​ Edge" src="https://github.com/AlexVor550/React_ToDo/assets/107479058/028dc272-a4d8-4da4-8cfc-17373cadb906">
+  
   Редактирование todo
   <img width="890" alt="2023-11-21 14_35_42-Vite + React и еще 16 страниц — Личный_ Microsoft​ Edge" src="https://github.com/AlexVor550/React_ToDo/assets/107479058/8740a5d8-c2d4-4958-aa24-fd16c283683b">
+  
   Сортировка todo
   <img width="890" alt="2023-11-21 14_36_00-Vite + React и еще 16 страниц — Личный_ Microsoft​ Edge" src="https://github.com/AlexVor550/React_ToDo/assets/107479058/891af732-bdc0-44fb-915f-ff9ff935df9b">
+  
   Удаление при нажатие на корзину
   <img width="893" alt="2023-11-21 14_36_19-Vite + React и еще 16 страниц — Личный_ Microsoft​ Edge" src="https://github.com/AlexVor550/React_ToDo/assets/107479058/4e884067-ebd8-4043-a00d-ddbacab90566">
+  
   Просмотр подробной информации
 <img width="890" alt="2023-11-21 14_37_26-Vite + React и еще 16 страниц — Личный_ Microsoft​ Edge" src="https://github.com/AlexVor550/React_ToDo/assets/107479058/0559a7d2-2f77-4876-86e9-3ca7e6647806">
 
